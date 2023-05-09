@@ -1,2 +1,2 @@
 # Filmorate_Intermediate_task
-intermediate task
+Промежуточное задание для взаимопроверки
